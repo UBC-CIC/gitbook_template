@@ -1,0 +1,5 @@
+root: ./docs/handover
+
+​structure:  
+    readme: README.md  
+    summary: ./docs/handover/SUMMARY.md
