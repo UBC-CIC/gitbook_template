@@ -2,6 +2,8 @@
 description: AWS Service Pricing Estimate
 ---
 
+# Cost
+
 Put a simplified version of cost analysis here. It is a bit tedious, but you'll have to manually copy/paste the data from excel into this table. Try to keep it short, with enough info to show how you got to the final price. It is much more convenient to edit this page on GitBook instead of inside a text editor.
 
 - Assumptions

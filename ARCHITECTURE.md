@@ -2,7 +2,7 @@
 description: High Level Solution Overview
 ---
 
-# 🔬 Solution Overview
+# Solution Overview
 
 Put a high level overview of your solution here. It is nice to separate into logical blocks so a reader is not overwhelmed with info.
 
@@ -21,4 +21,4 @@ Example from Census Explorer:
 ### Architecture Diagram
 
 Put an image of any (top level) architecture diagrams here:
-![High Level Architecture](https://placekitten.com/500/500)
+![High Level Architecture](./assets/architecture_diagram.png)

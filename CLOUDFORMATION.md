@@ -2,7 +2,7 @@
 description: Description of Custom AWS Cloudformation Templates
 ---
 
-# ☁ AWS CloudFormation Templates
+# AWS CloudFormation Templates
 
 Add Custom CFN templates here if you made any. Please explain briefly what they do.
 

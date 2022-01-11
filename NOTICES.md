@@ -1,4 +1,4 @@
-# 🗒 Notices
+# Notices
 
 Include licences, and other legal information here.
 Example from Imagine Canada:

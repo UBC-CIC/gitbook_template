@@ -1,4 +1,4 @@
-# 📕 AWS Glossary
+# AWS Glossary
 
 Links to the amazon documenation for any AWS Services you referred to in this document.
 

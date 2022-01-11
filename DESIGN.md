@@ -2,7 +2,7 @@
 description: Improvements and Design Choices
 ---
 
-# 💭 Design Considerations
+# Design Considerations
 
 Talk about why this solution was chosen over any other hypothesized solution.
 
