@@ -4,7 +4,8 @@
   "description": "This repo is a template for handover documentation for CIC Challenges using GitBook.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "gitbook build && gulp publish"
   },
   "repository": {
     "type": "git",

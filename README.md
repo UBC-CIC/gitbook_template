@@ -8,6 +8,14 @@ This repo is a template for handover documentation for CIC Challenges using GitB
 - SUMMARY.md is a GitBook file that generates the sidebar automatically.
 - gitbook-cli is not compatible with the newest version of node. Node 12.18.1 is a suggested version that works with the package.
 
+> :warning: **Update:** Added an npm script to publish books
+
+```console
+  npm run publish
+```
+
+> The following is a fallback in case the above does not work.
+
 ### Getting Started
 
 1. (If not installed) Install Node Version Manager.
