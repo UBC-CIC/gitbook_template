@@ -47,3 +47,9 @@ If this worked, `nvm -v` should succeed and print a version number.
 ```console
   gitbook serve
 ```
+
+5. To publish your document, run the gulpfile via the gulp cli:
+
+```console
+  npx gulp publish
+```
