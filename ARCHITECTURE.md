@@ -4,7 +4,7 @@ description: High Level Solution Overview
 
 # Solution Overview
 
-Put a high level overview of your solution here. It is nice to separate into logical blocks so a reader is not overwhelmed with info. This is a test
+Put a high level overview of your solution here. It is nice to separate into logical blocks so a reader is not overwhelmed with info.
 
 Example from Census Explorer:
 
